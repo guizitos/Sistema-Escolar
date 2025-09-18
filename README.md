@@ -107,7 +107,7 @@ turma.adicionarAluno(aluno);
 turma.listarAlunos();
 ```
 
-## 🧪 Testes
+##  Testes
 
 O projeto inclui testes unitários para validar as funcionalidades:
 
