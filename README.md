@@ -10,7 +10,7 @@ Um sistema escolar simples desenvolvido em Dart para gerenciamento de alunos, pr
 - **Registro de Notas**: Lançamento e cálculo de médias dos alunos
 - **Relatórios**: Visualização de informações do sistema escolar
 
-## 🏗 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 sistema_escolar/
