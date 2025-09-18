@@ -15,7 +15,7 @@ Um sistema escolar simples desenvolvido em Dart para gerenciamento de alunos, pr
 ```
 sistema_escolar/
 ├── lib/
-│   ├── escola.dart          # Exportação principal
+│   ├── sistema_escolar.dart          # Exportação principal
 │   ├── pessoa.dart          # Classe base Pessoa
 │   ├── aluno.dart           # Classe Aluno (herda de Pessoa)
 │   ├── professor.dart       # Classe Professor (herda de Pessoa)
