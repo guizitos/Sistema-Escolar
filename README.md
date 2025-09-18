@@ -56,7 +56,7 @@ dart run bin/sistema_escolar.dart
 dart test
 ```
 
-## 📚 Classes do Sistema
+##  Classes do Sistema
 
 ### Pessoa
 - Classe base com atributos comuns
